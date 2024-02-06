@@ -5,3 +5,17 @@ body{
     padding-top: 2rem;
     background-color: darkgrey;
 }
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: darkslategrey;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
