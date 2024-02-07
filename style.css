@@ -1,9 +1,13 @@
 body{
     min-height: 2000px;
 }
-.jumbotron{
-    padding-top: 2rem;
-    background-color: darkgrey;
+
+.banner {
+    background: url('img/33.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 22%;
+    padding-bottom: 20%;
+    color: white;
 }
 .lingkaran {
     display: inline-block;
